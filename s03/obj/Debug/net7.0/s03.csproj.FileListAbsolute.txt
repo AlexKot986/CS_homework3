@@ -1,0 +1,14 @@
+E:\GBrains\CS\sem03\s03\s03\bin\Debug\net7.0\s03.exe
+E:\GBrains\CS\sem03\s03\s03\bin\Debug\net7.0\s03.deps.json
+E:\GBrains\CS\sem03\s03\s03\bin\Debug\net7.0\s03.runtimeconfig.json
+E:\GBrains\CS\sem03\s03\s03\bin\Debug\net7.0\s03.dll
+E:\GBrains\CS\sem03\s03\s03\bin\Debug\net7.0\s03.pdb
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.AssemblyInfoInputs.cache
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.AssemblyInfo.cs
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.csproj.CoreCompileInputs.cache
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.dll
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\refint\s03.dll
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.pdb
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\s03.genruntimeconfig.cache
+E:\GBrains\CS\sem03\s03\s03\obj\Debug\net7.0\ref\s03.dll
